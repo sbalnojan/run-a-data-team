@@ -75,12 +75,14 @@ This guide tries to cover most of these functions and, in addition, all metafunc
 
 - [What Companies REALLY Want in an Analytics Engineer](https://medium.com/geekculture/what-companies-really-want-in-an-analytics-engineer-1ac03ff4494a) [free, medium article]
 
-## CONTRIBUTE THIS
-- Scaling data teams
-- leadership resources (focused on actually leading, e.g. people management)
-- more video content
-- ...
 
 ## Data Product Management
 
 - [Why Data Product Management is Different — 3 Important Lessons Applied](https://medium.com/geekculture/why-data-product-management-is-different-3-important-lessons-applied-4e88342b0f3f) [free, medium article]
+
+## CONTRIBUTE THIS
+- Scaling data teams
+- leadership resources (focused on actually leading, e.g. people management)
+- more video content
+- more on data product management (as long as relevant!)
+- ...
