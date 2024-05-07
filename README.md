@@ -31,8 +31,8 @@ This guide tries to cover most of these functions and, in addition, all metafunc
 
 ## Organising Teams
 
-- https://towardsdatascience.com/organizing-data-teams-where-to-make-the-cut-49969c5ec093 [free, article]
-- https://locallyoptimistic.com/post/hello-product-data-team-goodbye-ad-hoc-work/ [free, article]
+- [Organizing data teams - where to make the cut](https://towardsdatascience.com/organizing-data-teams-where-to-make-the-cut-49969c5ec093) [free, article]
+- [Hello Product Data Team, Goodbye Ad Hoc Work](https://locallyoptimistic.com/post/hello-product-data-team-goodbye-ad-hoc-work/) [free, article]
 - [Product Data Teams 101](https://www.thdpth.com/p/product-data-teams-101) [free, article]
 - [How should our company structure our data team?](https://medium.com/super/how-should-our-company-structure-our-data-team-e71f6846024d) [free, medium article]
 - [Building The Modern Data Team](https://databased.pedramnavid.com/p/modern-data-team) [free, article]
