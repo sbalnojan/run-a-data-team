@@ -26,8 +26,8 @@ This guide tries to cover most of these functions and, in addition, all metafunc
 
 - [The Data Engineering Handbook](https://github.com/DataExpert-io/data-engineer-handbook) [free, GitHub]
 - [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com/-/en/Joe-Reis/dp/1098108302) [paid, book]
-- [**# The dbt Reading Guide](https://www.notion.so/The-dbt-Reading-Guide-8df59be20e374858b65509648a869abf?pvs=21) [free, guide]**
-- [**# The Data Engineers Reading Guide](https://www.notion.so/The-Data-Engineers-Reading-Guide-05f6a032b36146d082d86c03016c5b89?pvs=21) [free, guide]**
+- [# The dbt Reading Guide](https://www.notion.so/The-dbt-Reading-Guide-8df59be20e374858b65509648a869abf?pvs=21) [free, guide]
+- [# The Data Engineers Reading Guide](https://www.notion.so/The-Data-Engineers-Reading-Guide-05f6a032b36146d082d86c03016c5b89?pvs=21) [free, guide]
 
 ## Organising Teams
 
@@ -74,6 +74,12 @@ This guide tries to cover most of these functions and, in addition, all metafunc
 ## Analytics Engineering
 
 - [What Companies REALLY Want in an Analytics Engineer](https://medium.com/geekculture/what-companies-really-want-in-an-analytics-engineer-1ac03ff4494a) [free, medium article]
+
+## CONTRIBUTE THIS
+- Scaling data teams
+- leadership resources (focused on actually leading, e.g. people management)
+- more video content
+- ...
 
 ## Data Product Management
 
